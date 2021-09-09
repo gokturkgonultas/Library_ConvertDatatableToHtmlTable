@@ -1,0 +1,13 @@
+ConvertDatatableToHtmlTable.3.0.1.nupkg isimli custom activity'i C:\ProgramData\UiPath\Packages yoluna kopyalayın.
+
+NOT: C:\ProgramData\UiPath\Packages yolu Uipath'de tanımlı değilse tanımlamanız gerekir. Bunun için:
+
+1 - Uipath'i açın.
+
+2 - Manage Packages'i tıkla
+
+3 - Settings tıkla
+
+4 - Gelen ekranda Name alanına CustomActivity (veya herhangi bir isim) ve Source alanına ise C:\ProgramData\UiPath\Packages yazın.
+
+5 - Add ve ardından Save tıklayın.
